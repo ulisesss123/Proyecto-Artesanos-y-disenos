@@ -1,5 +1,5 @@
 # Proyecto-Artesanos-y-disenos
-# ***¿Qué contiene?***
+# $$\color{orange}\textrm{¿Qué contiene?}$$
 
 Diseños, archivos, imagenes de los productos a tallar para artesanias en madera
 Aqui se encuentran todos los diseños que se han utilizado y que se han mandado a la máquina para poder imprimirlos.
