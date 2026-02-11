@@ -1,3 +1,4 @@
 Fresa utilizada: v para las letras y para la nube 1/8
 profudidad nube: 3 mm
 profundidades letras 1.5mm
+lienzo de 399 x 597 mm
